@@ -65,5 +65,3 @@ Certifique-se de ter o [uv](https://github.com/astral-sh/uv) instalado. Ele é u
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais durante o **NLW 2026** da Rocketseat.
-
-*Feito com ❤️ por Arthur Kamienski*

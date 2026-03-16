@@ -50,7 +50,7 @@ Certifique-se de ter o [uv](https://github.com/astral-sh/uv) instalado. Ele é u
 1. **Clone o repositório**:
    ```bash
    git clone <repository-url>
-   cd nlw-2026-computer-vision
+   cd computer-vision
    ```
 
 2. **Explore os Módulos**:

@@ -18,6 +18,7 @@ venv/
 .env
 .env.local
 *.local
+.sesskey
 
 # System files
 .DS_Store
